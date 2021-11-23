@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "253991116436",
+    "project_id": "chatapplivestream-7fb09",
+    "storage_bucket": "chatapplivestream-7fb09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253991116436:android:e4a923f4d7c2340f615e81",
+        "android_client_info": {
+          "package_name": "de.fluttercrypto1.chat_app_live_stream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253991116436-uvd4dajq4iiat4pfsolg5f2l0n79rvns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmL_12l96wC-XYf4C_8fvQ95CSoPUlyEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253991116436-uvd4dajq4iiat4pfsolg5f2l0n79rvns.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "253991116436-qikbtjjvuugbuo5v1ur11kfl74s4t3cp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "de.fluttercrypto1.chatAppLiveStream"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
